@@ -6,7 +6,7 @@
   "script": {
     "start": "nodemon server.js"
   },
-  "author": "Anh Huy",
+  "author": "Phuong Anh",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
